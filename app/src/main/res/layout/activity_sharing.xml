@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/content_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/btn_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:src="@drawable/ic_share_white_24dp"
+        android:transitionName="@string/share_transition_name"
+        app:fabSize="normal" />
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elevation="@dimen/design_fab_elevation"
+        android:scaleType="centerInside"
+        android:src="@drawable/sharing_bg" />
+
+    <TextView
+        android:id="@+id/facebook"
+        style="@style/ShareItemView"
+        android:layout_above="@id/btn_share"
+        android:layout_centerHorizontal="true"
+        android:drawableTop="@drawable/facebook"
+        android:elevation="@dimen/design_fab_elevation"
+        android:text="Facebook" />
+
+    <TextView
+        android:id="@+id/twitter"
+        style="@style/ShareItemView"
+        android:layout_centerVertical="true"
+        android:layout_toStartOf="@id/btn_share"
+        android:drawableTop="@drawable/twitter"
+        android:elevation="@dimen/design_fab_elevation"
+        android:text="Twitter" />
+
+    <TextView
+        android:id="@+id/google_plus"
+        style="@style/ShareItemView"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@id/btn_share"
+        android:drawableTop="@drawable/google_plus"
+        android:elevation="@dimen/design_fab_elevation"
+        android:text="Google Plus" />
+
+    <TextView
+        android:id="@+id/instagram"
+        style="@style/ShareItemView"
+        android:layout_below="@id/btn_share"
+        android:layout_centerHorizontal="true"
+        android:drawableTop="@drawable/instagram"
+        android:elevation="@dimen/design_fab_elevation"
+        android:text="Instagram" />
+
+</RelativeLayout>

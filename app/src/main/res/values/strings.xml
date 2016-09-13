@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UI Motion Activity Transition</string>
+    <string name="picture_transition_name" translatable="false">picture_transition</string>
+    <string name="share_transition_name" translatable="false">share_transition</string>
+    <string name="tulip">The tulip is a Eurasian and North African genus of perennial, bulbous plants in the lily family.
+        It is aherbaceous herb with showy flowers, of which around 75 wild species are currently accepted.
+The genus\'s native range extends west to the Iberian Peninsula, through North Africa to Greece, the Balkans, Turkey,
+        throughout the Levant (Syria, Israel, Palestinian Territories, Lebanon, Jordan) and Iran, north to Ukraine, southern Siberia and
+        Mongolia, and east to the Northwest of China. The tulip\'s centre of diversity is in the Pamir, Hindu Kush, and Tien Shan mountains.
+        It is a common element of steppe and winter-rain Mediterranean vegetation.
+A number of species and many hybrid cultivars are grown in gardens or as potted plants.</string>
+    <string name="rose">Rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the
+        flower it bears. There are over a hundred species and thousands of cultivars. They form a group of plants that can be erect shrubs, climbing or
+        trailing with stems that are often armed with sharp prickles. Flowers vary in size and shape and are usually large and showy, in colours ranging
+        from white through yellows and reds. Most species are native to Asia, with smaller numbers native to Europe, North America, and northwestern Africa.
+        Species, cultivars and hybrids are all widely grown for their beauty and often are fragrant. Roses have acquired cultural significance in
+        many societies. Rose plants range in size from compact, miniature roses, to climbers that can reach seven meters in height.
+        Different species hybridize easily, and this has been used in the development of the wide range of garden roses.
+The name rose comes from French, itself from Latin rosa, which was perhaps borrowed from Oscan, from Greek ρόδον rhódon
+        (Aeolic βρόδον wródon), itself borrowed from Old Persian wrd- (wurdi), related to Avestan varəδa, Sogdian ward, Parthian wâr.</string>
+
+    <string name="sunflower">Helianthus or sunflowers (from the Greek: ήλιος, Hēlios, "sun" and ανθός, anthos, "flower") L. /ˌhiːliˈænθəs/ is a genus of plants comprising about 70 species in the family Asteraceae. The genus is one of many in the Asteraceae that are known as sunflowers. Except for three species in South America, all Helianthus species are native to North America. The common name, "sunflower", typically refers to the popular annual species Helianthus annuus, the common sunflower, whose round flower heads in combination with the ligules look like the sun. This and other species, notably Jerusalem artichoke (H. tuberosus), are cultivated in temperate regions as food crops and ornamental plants.
+
+The domesticated sunflower, H. annuus, is the most familiar species. Perennial sunflower species are not as popular for gardens due to their tendency to spread rapidly and become invasive. Whorled sunflowers, H. verticillatus, were listed as an endangered species in 2014 when the U.S. Fish and Wildlife Service issued a final rule protecting it under the Endangered Species Act. The primary threats are industrial forestry and pine plantations in Alabama, Georgia, and Tennessee. They grow to 1.8 m (6 ft) and are primarily found in woodlands, adjacent to creeks and moist, prairie-like areas.</string>
+</resources>
